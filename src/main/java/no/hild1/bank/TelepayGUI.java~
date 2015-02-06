@@ -285,7 +285,7 @@ public class TelepayGUI extends JFrame implements Runnable {
                     }
                 }
                 if (!foundDouble) {
-                    displayMessage("Could not find and KID-bank account number or amount-bankaccount number pairs.");
+                    displayMessage("Fant ingen KID-kontonummer eller beløp-kontonummer-par.");
                 }
             }
         }
