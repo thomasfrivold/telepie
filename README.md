@@ -1,4 +1,4 @@
-telepai
+telepie
 ==============
 Library / GUI / validator for the Telepay 2v1 standard for payment transactions.
 
